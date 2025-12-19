@@ -1,0 +1,16 @@
+body {
+background-image: url('assets/bg.png');
+background-size: cover;
+}
+#page {
+    width: 3061px;
+    height: 660px;
+   background-color: #1E1E1E;
+   border-radius: 24px;
+margin: auto;
+box-sizing: border-box;
+}
+
+img{
+    border-radius: 16px;
+}
